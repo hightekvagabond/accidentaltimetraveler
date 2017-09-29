@@ -49,3 +49,4 @@ Michael Wood suggested using something like this as a base:
 https://play.google.com/store/apps/details?id=org.ligi.survivalmanual&hl=en
 
 
+Also, as per Ashley, maybe a tool in the app that lets you configure ahead of time with yours and your family's personal heal conditions so it can pre-index helpful herbs and such for helping with conditions when you are in a place without modern medicine.
