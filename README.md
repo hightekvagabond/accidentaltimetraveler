@@ -39,3 +39,13 @@ Once you've gotten into the app, we should have indexed all the articles we need
 This could be a fun community project to build out.
 
 
+
+
+
+Notes:
+
+Michael Wood suggested using something like this as a base:
+
+https://play.google.com/store/apps/details?id=org.ligi.survivalmanual&hl=en
+
+
